@@ -1,0 +1,38 @@
+[
+  {
+    "ID": "123456789",
+    "Name": "Noa",
+    "Phone": "050-1234567",
+    "Address": "Tel Aviv"
+  },
+  {
+    "ID": "987654321",
+    "Name": "Amit",
+    "Phone": "052-4214675",
+    "Address": "Jerusalem"
+  },
+  {
+    "ID": "123456799",
+    "Name": "Israel",
+    "Phone": "050-1234566",
+    "Address": "Haifa"
+  },
+  {
+    "ID": "987654311",
+    "Name": "Ron",
+    "Phone": "052-4214677",
+    "Address": "Tel Aviv"
+  },
+  {
+    "ID": "123456888",
+    "Name": "Amit",
+    "Phone": "052-1234567",
+    "Address": "Petah Tikva"
+  },
+  {
+    "ID": "123477888",
+    "Name": "Yair",
+    "Phone": "0521234567",
+    "Address": "Petah Tikva"
+  }
+]
